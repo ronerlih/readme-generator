@@ -1,13 +1,13 @@
 {
-  "name": "readme-generator",
-  "version": "1.0.0",
+  "name": "readme-generatorify",
+  "version": "1.0.1",
   "description": "Command Line Interface app to create a project readme.md file",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-     "testLog": "index.js"
+     "testLog": "bin/index.js"
   },
   "repository": {
     "type": "git",
